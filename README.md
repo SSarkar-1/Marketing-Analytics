@@ -1,1 +1,1 @@
-# Marketing-Analytics
+This project helps businesses understand and improve their customer experience by combining customer data with real feedback analysis. Using proven data techniques, we gathered valuable customer details from your systems and paired that with advanced feedback analysis to reveal how your customers really feel. The result is an interactive dashboard that presents clear, actionable insights—allowing you to make smarter, faster decisions to boost customer satisfaction and drive growth.
